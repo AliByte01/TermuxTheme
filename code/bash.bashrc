@@ -386,12 +386,13 @@ sleep 1.0
 mpv /data/data/com.termux/files/home/TermuxTheme/code/scifi.mp3
 clear
 cat /data/data/com.termux/files/home/TermuxTheme/code/box.cow | lolcat
-figlet -f small "EXCAPE BOX" |lolcat
+echo ""
+figlet -f small "EXCAPE BOX"|lolcat
 sleep 0.0
 echo -e "\e[96m"
 date
-echo""
-echo "                     HERE WE GO ALWAYS"|lolcat
-echo "                      ":zap: 127.0.0.1 :zap:
+echo ""
+echo "                   HERE WE GO ALWAYS"|lolcat
+echo "                    "⚡ 127.0.0.1 ⚡
 echo " "
 echo -e "\e[32m"
