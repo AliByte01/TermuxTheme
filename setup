@@ -1,0 +1,35 @@
+#!/bin/bash
+#Coded By Baje Tech Kanuri Boy
+#Note: THIS IS NOTHING OUT OF BASH SCRIPT TO INSTALL THE REQUIREMENTS OF THE TOOL
+
+clear
+pkg install python -y
+pip install lolcat
+clear
+sleep 0.0
+echo " ____  _____ _____ _   _ ____"|lolcat 
+echo "/ ___|| ____|_   _| | | |  _ \ "|lolcat
+echo "\___ \|  _|   | | | | | | |_) |"|lolcat
+echo " ___) | |___  | | | |_| |  __/ "|lolcat
+echo "|____/|_____| |_|  \___/|_| "|lolcat
+echo ""
+sleep 1.0
+echo "THIS IS THE SETTING UP THE T-THEME TOOL AND IT MAY TAKE SOME TIME TO FINISEHD"|lolcat
+echo ""
+read -p "TO CONTINUE THE SETTING UP TOOL PRESS ENTER TO CANCEL PRESS CTRL + Z"
+echo ""
+echo "The Installation Started Now This Usually Taking Like 10 Munites Or 15"|lolcat
+sleep 1.0
+pkg update -y %% pkg upgrade -y
+pkg install python -y && pkg install python2 -y
+pkg install mpv -y
+pkg install figlet -y
+pkg install toilet -y
+pkg install ruby -y
+pip install lolcat
+gem install lolcat
+clear
+echo "Setup and installation is finished now"|lolcat
+echo "Please Run ./TermuxTheme.sh To Start The Tool"|lolcat
+sleep 2.0
+ls
