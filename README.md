@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://bit.ly/3aQsDu4"><img title="Made in INDIA" src="https://img.shields.io/badge/Termux-Theme-green.svg"></a>
 <a href="https://bit.ly/3aQsDu4"><img title="Version" src="https://img.shields.io/badge/Version-1.2-green.svg?style=flat-square"></a>
-<a href="https://bit.ly/3aQsDu4"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-Probably-green.svg"></a>
+
 </p>
 <p align="center">
 <a href="https://bit.ly/3aQsDu4"><img title="Termux-Theme" src="https://1.bp.blogspot.com/-lyW6zU967fQ/YCLR5v9IqaI/AAAAAAAAAK8/h24GbpmFmjAkZmYE4t6ZKlFAHiE2OU2lQCLcBGAsYHQ/s1280/20210209_191606_0000.png"></a>
