@@ -66,9 +66,9 @@ and now that issue is fixed and it's still look awesome
 
 <br>
 <p align="center">
-<img width="50%" src="https://1.bp.blogspot.com/-R0WlLJAlcg4/YCRjLtIR2LI/AAAAAAAAALc/UO_NueuyrWcKLEVL9hmJ9g2CrQMWTDPQQCLcBGAsYHQ/s320/Screenshot_20210209-191454.png"/>
-<img width="50%" src="https://1.bp.blogspot.com/-0z8NzbyFobk/YCRjPT6qNpI/AAAAAAAAALg/qy5ntzC2TK0Hh4FJXpTWVs0O3a01Io44QCLcBGAsYHQ/s320/Screenshot_20210209-194237.png"/>
-<img width="50%" src="https://1.bp.blogspot.com/-1fvvrQZIJYY/YCRjTaY6dyI/AAAAAAAAALk/ibPW6HV8MI8lxlbAgNUycXFm2G0OiTGcwCLcBGAsYHQ/s320/Screenshot_20210209-194353.png"/>
+<img width="70%" src="https://1.bp.blogspot.com/-R0WlLJAlcg4/YCRjLtIR2LI/AAAAAAAAALc/UO_NueuyrWcKLEVL9hmJ9g2CrQMWTDPQQCLcBGAsYHQ/s320/Screenshot_20210209-191454.png"/>
+<img width="70%" src="https://1.bp.blogspot.com/-0z8NzbyFobk/YCRjPT6qNpI/AAAAAAAAALg/qy5ntzC2TK0Hh4FJXpTWVs0O3a01Io44QCLcBGAsYHQ/s320/Screenshot_20210209-194237.png"/>
+<img width="70%" src="https://1.bp.blogspot.com/-1fvvrQZIJYY/YCRjTaY6dyI/AAAAAAAAALk/ibPW6HV8MI8lxlbAgNUycXFm2G0OiTGcwCLcBGAsYHQ/s320/Screenshot_20210209-194353.png"/>
 </p>
 
 
