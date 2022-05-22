@@ -13,7 +13,7 @@
 <a href="https://github.com/080HACKERS"><img title="Github" src="https://img.shields.io/badge/Github-080HACKERS-brightgreen?style=for-the-badge&logo=github"></a>
 <img title="YouTube" src="https://img.shields.io/badge/YouTube-080HACKERS-red?style=for-the-badge&logo=Youtube"></a>
 
-### NOTE: Am sorry for not updating this tool but am updating it once am less busy please
+### NOTE: Am sorry for not updating this tool but am updating it once am less busy please, and keep donates that make really care about the project
 
 ## AVAILABLE ON :
 
