@@ -41,6 +41,8 @@ echo "SmartChain (BNB) OR SOLANA TO ME FROM THE"|lolcat
 echo "MENTIONED ADDRESSES AND THEIRS NETWORKS BELOW."|lolcat
 echo ""
 echo "SmartChain (BNB) BEP20 Address👇"|lolcat
-echo "BNB BEP20: 0x4Bc302A6755ED2B4D2311578d62B59f455E31152"
-
+echo "NETWORK BNB BEP20: 0x4Bc302A6755ED2B4D2311578d62B59f455E31152"
+echo ""
+echo "Solana (SOL) SOLANA Address👇"|lolcat
+echo "NETWORK SOLOANA: FnF7MWm6YpXygBZNWCun4qZA9VNiqnVnhC5na1MjVfFP"
 echo "VISIT https://bajetech.org TO LEARN MORE."
