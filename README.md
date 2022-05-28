@@ -24,9 +24,9 @@
 * Termux And Not Working On Others Like Kali Linux,ParrotSec,etc
 
 ### REQUIREMENTS :
-* Python3 pip Lolcat
-* Termux
-* MKV Installed
+* python3 pip lolcat
+* termux
+* mkv installed
 
 
 ## INSTALLATION ON [Termux] :
