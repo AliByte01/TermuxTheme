@@ -38,10 +38,9 @@ echo "Please exit from the termux and open it again to see the changes."|lolcat
 echo "IF YOU ARE INTERESTED IN DONATION"|lolcat
 echo "YOU CAN DONATE SOME SMALL AMOUNT OF EITHER"|lolcat
 echo "SmartChain (BNB) OR SOLANA TO ME FROM THE"|lolcat
-echo "MENTIONED ADDRESSES AND THEIRS NETWORKS BELOW"|lolcat
+echo "MENTIONED ADDRESSES AND THEIRS NETWORKS BELOW."|lolcat
 echo ""
-echo ""
-echo "VISIT https://bajetech.org TO LEARN MORE"
-sleep 1.0
-echo "Exiting... Please Relounch The Termux Again"|lolcat
-echo "Exit From Termux And Open It Again To Se The Changes"|lolcat
+echo "SmartChain (BNB) BEP20 Address👇"|lolcat
+echo "BNB BEP20: 0x4Bc302A6755ED2B4D2311578d62B59f455E31152"
+
+echo "VISIT https://bajetech.org TO LEARN MORE."
