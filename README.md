@@ -81,7 +81,11 @@ IN THE PREVIOUS VERSION AS YOU KNOW WHILE RUNNING THE TermuxTheme.sh FILE YOU AR
 ## DONATION
 * Smartchain (BNB) BEP20 NETWORK Donation Address👇
 
-```0x4Bc302A6755ED2B4D2311578d62B59f455E31152```
+```
+0x4Bc302A6755ED2B4D2311578d62B59f455E31152
+```
 
-* Solana (Sol) Network Solana Donation Address 👇
-```FnF7MWm6YpXygBZNWCun4qZA9VNiqnVnhC5na1MjVfFP```
+* Solana (SOL) Network Solana Donation Address 👇
+```
+FnF7MWm6YpXygBZNWCun4qZA9VNiqnVnhC5na1MjVfFP
+```
