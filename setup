@@ -29,11 +29,12 @@ pkg install figlet -y
 pkg install toilet -y
 pkg install ruby -y
 pip install lolcat
-gem install lolcat
 clear
 echo "MashAllah all setup you are ready good to go now."|lolcat
 echo "Please Run ./TermuxTheme.sh To Start The Tool."|lolcat
 sleep 3.0
 echo "am listing the file to run for you to see."
 sleep 2.0
+echo ""
+echo ""
 ls
