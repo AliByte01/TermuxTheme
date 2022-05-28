@@ -1,36 +1,47 @@
 #!/bin/bash
-#coded by Baje Tech/080HACKERS
-#Created On 10/02/2021 In Nigeria By Baje Tech Kanuri Boy
-#If You Take Money For This Little Tool Bash Script Please Look At Your Self Again And Shame To Your
+# coded by BajeTech (AliByte01)
+# Created since on 10/02/2021 made in Nigeria by BajeTech (AliByte01)
+# If You Take Money For This Little Tool Bash Script Please Look At Your Self Again And Shame To You.
+# visit our website https://bajetech.org
 clear
+sleep 0.5
 echo ""
-echo " [SUBSCRIBE BAJE TECH YOUTUBE CHANNEL FOR MORE]"|lolcat
+echo "  [VISIT https://bajetech.org TO LEARN MORE]"|lolcat
 echo "    _____   _____ _   _ _____ __  __ _____"|lolcat
 echo "   |_   _| |_   _| | | | ____|  \/  | ____|"|lolcat
 echo "     | |_____| | | |_| |  _| | |\/| |  _|"  |lolcat
 echo "     | |_____| | |  _  | |___| |  | | |___" |lolcat
 echo "     |_|     |_| |_| |_|_____|_|  |_|_____| V1.2"|lolcat
-echo "     [Coded By (Baje Tech)  080HACKERS CEO]"|lolcat
-sleep 1.0
+echo "            [CREATED BY: AliByte01]"|lolcat
+sleep 0.5
 echo ""
-echo "This Will Change Your Termux Home Theme Color To Look Aweasome"|lolcat
+echo "You Are About To Switch Termux To Colorful Mode."|lolcat
+read -p 'Press Enter To Continue Or Press CTRL + Z To Cancel'
 echo ""
-read -p 'Please Press Enter To Continue Or Press CTRL + Z To Cancel'
 echo ""
-sleep 0.0
+sleep 0.5
 echo "Ok Your Termux Theme Will Change Now"|lolcat
 sleep 2.0
-echo " Please Wait For 8 Seconds To Make The Change..."|lolcat
+echo " Please Wait For 10 Seconds To Make The Changes..."|lolcat
+sleep 2.0
 cd
 cd /$HOME
 rm //data/data/com.termux/files/usr/etc/bash.bashrc
 cd
 mv /data/data/com.termux/files/home/TermuxTheme/code/bash.bashrc //data/data/com.termux/files/usr/etc/bash.bashrc
 sleep 8.0
-echo "Finished, Your Termux Now Looking Aweasome"|lolcate
+echo "Completed, Your Termux Now Looking Awesome"|lolcat
 sleep 1.0
-echo "Due To Confirmination Of This Chnages Your Termux Will Now Close By It Self"|lolcate
-echo "In Other To Let You See The Changes"|lolcate
+echo ""
+echo ""
+echo "Please exit from the termux and open it again to see the changes."|lolcat
+echo "IF YOU ARE INTERESTED IN DONATION"|lolcat
+echo "YOU CAN DONATE SOME SMALL AMOUNT OF EITHER"|lolcat
+echo "SmartChain (BNB) OR SOLANA TO ME FROM THE"|lolcat
+echo "MENTIONED ADDRESSES AND THEIRS NETWORKS BELOW"|lolcat
+echo ""
+echo ""
+echo "VISIT https://bajetech.org TO LEARN MORE"
 sleep 1.0
 echo "Exiting... Please Relounch The Termux Again"|lolcat
 echo "Exit From Termux And Open It Again To Se The Changes"|lolcat
