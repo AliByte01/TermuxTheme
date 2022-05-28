@@ -45,4 +45,6 @@ echo "NETWORK BNB BEP20: 0x4Bc302A6755ED2B4D2311578d62B59f455E31152"
 echo ""
 echo "Solana (SOL) SOLANA Address👇"|lolcat
 echo "NETWORK SOLOANA: FnF7MWm6YpXygBZNWCun4qZA9VNiqnVnhC5na1MjVfFP"
+echo ""
+echo ""
 echo "VISIT https://bajetech.org TO LEARN MORE."
