@@ -370,9 +370,9 @@ echo ""
 echo ""
 echo ""
 echo ""
-echo "                      HELLO GUYS BAJE TECH"|lolcat
-echo "                  I AM ENTERING THEN KEEP WATCH"|lolcat
-echo "             AND PLEASE DO SUBSCRIBE AND HIR BELL ICON"|lolcat
+echo "                  H3LL0 GUYS H4CK3R H3R3"|lolcat
+echo "                 I AM OPENING MY TERMINAL"|lolcat
+echo "             SO JUST KEEP WATCHING TO SEE HACKS"|lolcat
 echo""
 echo -e "\e[32m"
 echo "                   "[██████████████████████ 100%]
