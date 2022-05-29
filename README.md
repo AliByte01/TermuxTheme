@@ -36,7 +36,9 @@ TermuxTheme, this is one of the best Termux themer that used to switch Termux fr
 * `pkg update -y`
 * `pkg upgrade -y`
 * `pkg install git -y`
-* ```git clone https://github.com/AliByte01/TermuxTheme````
+```
+git clone https://github.com/AliByte01/TermuxTheme
+```
 * `cd TermuxTheme`
 * `chmod 777 *`
 * `./setup`
