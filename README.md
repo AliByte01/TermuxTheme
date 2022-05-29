@@ -13,21 +13,22 @@
 <a href="https://github.com/AliByte01"><img title="Github" src="https://img.shields.io/badge/Github-AliByte01-brightgreen?style=for-the-badge&logo=github"></a>
 <img title="YouTube" src="https://img.shields.io/badge/YouTube-BajeTech-red?style=for-the-badge&logo=Youtube"></a>
 
-##What's this for?
-
+## What's this for?
+TermuxTheme, this is one of the best Termux themer that used to switch Termux from black and white into colorfully mode of hackers, one of the best thing with this tool is that as we all know most of the Termux color tools has some ERROS which while typing commands they just keep repeating by going back however this is very useless so, you can use this tool and it will never repeating your typing or get back confirmed InshaAllah.
 
 ## AVAILABLE ON :
 * Termux Only
 
 ## TESTED ON :
 * Termux Only.
-* Confirmed And Not Working On Others Like Kali Linux,ParrotSec,Ubuntu etc.
+* Working On Others Like Kali Linux,ParrotSec,Ubuntu etc.
+*
 * DONATE ME TO MAKE IT BE AVAILABLE ON ANY OS.
 
 ### THE TOOL REQUIREMENTS:
 * Termux From Fdroid
-* mpv installed
-* python3, pip, lolcat,figlet
+* mpv the will install auto
+* python3, pip, lolcat, figlet
 
 
 ## INSTALLATION ON [Termux] :
@@ -45,7 +46,7 @@
 
 
 ```
-THIS TOOL WAS MAINTAINED BY AliByte01 AND KEEP UPDATING ALMOST ANYTIME AS WELL AS YOU WILL HOPEFULLY KEEP DONATING TO US.
+THIS TOOL IS MAINTAINED BY AliByte01 AND KEEP UPDATING ALMOST ANYTIME AS WELL AS YOU WILL HOPEFULLY KEEP DONATING TO US.
 ```
 
 
