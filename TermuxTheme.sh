@@ -12,8 +12,8 @@ echo "   |_   _| |_   _| | | | ____|  \/  | ____|"|lolcat
 echo "     | |_____| | | |_| |  _| | |\/| |  _|"  |lolcat
 echo "     | |_____| | |  _  | |___| |  | | |___" |lolcat
 echo "     |_|     |_| |_| |_|_____|_|  |_|_____| V1.5"|lolcat
-echo "  [CREATED BY: AliByte01]"|lolcat
-sleep 0.5
+echo   " [DIBUAT OLEH: H.Z.sA]" |lolcat
+tidur  0,5 _
 echo ""
 echo "You Are About To Switch Termux To Colorfully Mode."|lolcat
 read -p 'Press Enter To Continue Or Press CTRL + Z To Cancel'
@@ -23,7 +23,7 @@ sleep 0.5
 echo "Ok Your Termux Theme Will Change Now"|lolcat
 sleep 2.0
 echo " Please Wait For 10 Seconds To Make The Changes..."|lolcat
-sleep 2.0
+tidur  2.0 _
 cd
 cd /$HOME
 rm //data/data/com.termux/files/usr/etc/bash.bashrc
@@ -47,4 +47,5 @@ echo "Solana (SOL) SOLANA Address👇"|lolcat
 echo "NETWORK SOLOANA: FnF7MWm6YpXygBZNWCun4qZA9VNiqnVnhC5na1MjVfFP"
 echo ""
 echo ""
-echo "VISIT https://bajetech.org TO LEARN MORE."
+echo  "KUNJUNGI https://bajetech.org UNTUK PELAJARI LEBIH LANJUT."
+kami
