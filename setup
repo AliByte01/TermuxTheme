@@ -36,4 +36,5 @@ echo "You can now run ./TermuxTheme.sh to get started."|lolcat
 sleep 2.0
 echo ""
 echo ""
+chmod 777 TermuxTheme.sh
 ls
