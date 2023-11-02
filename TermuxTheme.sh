@@ -1,7 +1,7 @@
 #!/bin/bash
-# coded by BajeTech (AliByte01)
-# Created since on 10/02/2021 made in Nigeria by BajeTech (AliByte01)
-# If You Take Money For This Little Tool Bash Script Please Look At Your Self Again And Shame To You.
+# Coded by AliByte01
+# Created since on 10/02/2021 made in Nigeria by AliByte01.
+# If You Take Money For This Little Bash Script Please Look At Your Self Again And Shame on You.
 # visit our website https://bajetech.org
 clear
 sleep 0.5
@@ -12,10 +12,10 @@ echo "   |_   _| |_   _| | | | ____|  \/  | ____|"|lolcat
 echo "     | |_____| | | |_| |  _| | |\/| |  _|"  |lolcat
 echo "     | |_____| | |  _  | |___| |  | | |___" |lolcat
 echo "     |_|     |_| |_| |_|_____|_|  |_|_____| V1.5"|lolcat
-echo "  [CREATED BY: AliByte01]"|lolcat
+echo "     [CREATED BY: AliByte01]"|lolcat
 sleep 0.5
 echo ""
-echo "You Are About To Switch Termux To Colorfully Mode."|lolcat
+echo "You Are About To Switch Termux To Colorfull Mode."|lolcat
 read -p 'Press Enter To Continue Or Press CTRL + Z To Cancel'
 echo ""
 echo ""
