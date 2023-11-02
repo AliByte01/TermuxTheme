@@ -102,8 +102,8 @@ FnF7MWm6YpXygBZNWCun4qZA9VNiqnVnhC5na1MjVfFP
 ```
 
 ## Peoples who donated
-* 1. Thanks to Mr Bilal
-* 2. Thanks to Mr Rabi
-* 3. Thanks to Mrs Ushiya
+*  Thanks to Mr Bilal
+*  Thanks to Mr Rabi
+*  Thanks to Mrs Ushiya
 
-## These Peoples are the one who help to update the script and donate more to improve the projects.
+## These People are the one who helps to update the script and you can also donate to improve the projects and push it to the highest level.
