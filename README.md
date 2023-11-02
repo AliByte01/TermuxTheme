@@ -21,7 +21,7 @@ TermuxTheme, this is one of the best Termux themer that used to switch Termux fr
 
 ## TESTED ON :
 * Termux Only.
-* Working On Others Like Kali Linux,ParrotSec,Ubuntu etc.
+* Not Working On Others Like Kali Linux,ParrotSec,Ubuntu etc.
 *
 * DONATE ME TO MAKE IT BE AVAILABLE ON ANY OS.
 
@@ -48,11 +48,12 @@ git clone https://github.com/AliByte01/TermuxTheme
 
 
 ```
-THIS TOOL IS MAINTAINED BY AliByte01 AND KEEP UPDATING ALMOST ANYTIME AS WELL AS YOU WILL HOPEFULLY KEEP DONATING TO US.
+THIS TOOL IS CREATED AND MAINTAINED BY AliByte01 AND WILL KEEP UPDATING ALMOST ANYTIME AS WELL AS YOU WILL HOPEFULLY KEEP DONATING TO US.
 ```
 
 
-## WHAT'S NEW WITH THIS VERSION 1.5
+## WHAT'S NEW WITH THIS VERSION 1.7
+* FIXED ISSUES IN VERSION 1.5
 * HACK BOX THEME UPDATED
 * EXCAFE BOX FIGLET WITH LOLCAT FIXED
 * COWSAY EYES WITH BOW COW UPDATED
@@ -85,7 +86,7 @@ IN THE PREVIOUS VERSION AS YOU KNOW WHILE RUNNING THE TermuxTheme.sh FILE YOU AR
 
 ## Credits
 * Thanks To Noob-Hackers
-* Thanks To BajeTech
+* Thanks To AliByte01
 
 
 ## DONATION
@@ -99,3 +100,10 @@ IN THE PREVIOUS VERSION AS YOU KNOW WHILE RUNNING THE TermuxTheme.sh FILE YOU AR
 ```
 FnF7MWm6YpXygBZNWCun4qZA9VNiqnVnhC5na1MjVfFP
 ```
+
+## Peoples who donated
+* 1. Thanks to Mr Bilal
+* 2. Thanks to Mr Rabi
+* 3. Thanks to Mrs Ushiya
+
+## These Peoples are the one who help to update the script and donate more to improve the projects.
