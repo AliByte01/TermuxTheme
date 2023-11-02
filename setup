@@ -1,6 +1,6 @@
 #!/bin/bash
-# Coded by BajeTech (AliByte01)
-# Note: THIS IS NOTHING OUT OF BASH SCRIPT TO INSTALL THE REQUIREMENTS OF THE TOOL
+# Coded by MR CEO (AliByte01)
+# Note: THIS IS NOTHING BUT BASH SCRIPT TO INSTALL THE REQUIREMENTS OF The TermuxTheme.
 
 clear
 pkg install python -y
@@ -12,9 +12,11 @@ echo "/ ___|| ____|_   _| | | |  _ \ "|lolcat
 echo "\___ \|  _|   | | | | | | |_) |"|lolcat
 echo " ___) | |___  | | | |_| |  __/ "|lolcat
 echo "|____/|_____| |_|  \___/|_| "|lolcat
-echo ""
+echo "       By AliByte01"|lolcat
 sleep 1.0
-echo "BY RUNING THIS YOU MEAN YOU WANNA SETUP THE TermuxTheme"|lolcat
+echo ""
+echo ""
+echo "BY RUNING THIS YOU MEAN THAT YOU WANNA SETUP THE TermuxTheme"|lolcat
 echo ""
 read -p "TO CONTINUE SETUP PRESS ENTER TO CANCEL PRESS CTRL + Z"
 echo ""
@@ -28,12 +30,9 @@ pkg install mpv -y
 pkg install figlet -y
 pkg install toilet -y
 pkg install ruby -y
-pip install lolcat
 clear
-echo "MashAllah all setup you are ready good to go now."|lolcat
-echo "Please Run ./TermuxTheme.sh To Start The Tool."|lolcat
-sleep 3.0
-echo "am listing the file to run for you to see."
+echo "Congratulations you have installed all the necessary tools. "|lolcat
+echo "You can now run ./TermuxTheme.sh to get started."|lolcat
 sleep 2.0
 echo ""
 echo ""
